@@ -1,0 +1,28 @@
+.comment {
+    border: 3px solid grey;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.mainMessage {
+    padding: 3px 5px;
+}
+
+.timeAndSend {
+    display: flex;
+    padding: 58px 10px 5px 10px;
+    font-weight: 100;
+    justify-content: space-between;
+}
+
+.newCommentWrap {
+    margin-top: 10px;
+}
+
+.newComment {
+    width: 300px;
+    height: 30px;
+    border: 3px solid grey;
+    border-radius: 10px;
+    font-weight: bold;
+}
